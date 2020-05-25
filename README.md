@@ -19,7 +19,7 @@ The first thing we need to do is to understand the data structure. Trying to vis
 assignment better and to understand which data needs to be displayed in which parts. Belly button data consits of 3 arrays. The second and third array 
 (`metadata` and `samples`) consists of several objects. We will filter the data dynamically based on the ID called in the first array (`names`). 
 
-![](images/js-2.PNG)
+![](images/js-2.png)
 
 * Drop Down 
 Drop down will use `names` array. The rest of data visualization will be filtered based on ID in this drop down. 
